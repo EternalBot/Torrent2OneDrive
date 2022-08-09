@@ -1,6 +1,9 @@
 # torrent-to-one-drive
 Download torrents directly to Microsoft One Drive using Google Colab
 
+# Rclone:
+v1.59.1
+
 ### Why using this method?
 1. The download speed is fast because of Google and Microsoft Servers speed.
 2. You can access files from anywhere because they are in One Drive.
